@@ -21,7 +21,7 @@ public class Cat extends Pets{
     }
 
     @Override
-    public void Petting() {
+    public void petting() {
         System.out.println("\"Дозволяю любить меня\"\n");;
     }
 
