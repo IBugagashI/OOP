@@ -77,6 +77,7 @@ public class Program {
                     }
                     break;
                 case 12:
+                    sc.close();
                     cheaker = false;
                     break;
             }   
