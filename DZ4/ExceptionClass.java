@@ -5,3 +5,4 @@ public class ExceptionClass extends Exception {
         super(String.format("Тип %s несопоставим", type));
     }
 }
+
